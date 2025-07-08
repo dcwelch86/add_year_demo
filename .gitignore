@@ -1,0 +1,5 @@
+# Ignore credentials
+oauth_2_client_id.json
+
+# Ignore token
+token.yaml
